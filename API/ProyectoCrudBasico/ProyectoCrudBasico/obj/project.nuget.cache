@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A+BHq4Uvmf8=",
+  "dgSpecHash": "/ej5CTko960=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\Prueba Tecnica\\Backend\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\ProyectoCrudBasico.csproj",
+  "projectFilePath": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\PruebaTecnica\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\ProyectoCrudBasico.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Danie\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.5\\microsoft.entityframeworkcore.9.0.5.nupkg.sha512",
     "C:\\Users\\Danie\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.5\\microsoft.entityframeworkcore.abstractions.9.0.5.nupkg.sha512",

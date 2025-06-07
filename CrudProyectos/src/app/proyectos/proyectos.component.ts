@@ -34,12 +34,20 @@ export class ProyectosComponent implements OnInit {
       nombre: this.newItemName,
       descripcion: this.newItemDescription,
     };
+
+    const nombreRepetido = this.items.some(item => item.nombre.trim().toLowerCase() === this.newItemName.trim().toLowerCase());
+
+    if (nombreRepetido) {
+      alert('Ya existe un proyecto con ese nombre.');
+      return;
+    }
     
     this.dataService.createProyecto(newItem).subscribe(() => {
       this.loadItems();
       this.newItemName = '';
       this.newItemDescription = '';
     });
+    alert("Se ha creado el proyecto correctamete");
   }
 
     editItem(item: any) {
@@ -61,10 +69,14 @@ export class ProyectosComponent implements OnInit {
         this.loadItems();
         this.cancelEdit();
       });
+    alert("Se ha editado el proyecto correctamete");
+
     }
 
     deleteItem(id: number) {
         this.dataService.deleteProyecto(id).subscribe(()=> {
+        alert("Se ha eliminado el proyecto correctamete");
+
           this.loadItems();
         });
       }

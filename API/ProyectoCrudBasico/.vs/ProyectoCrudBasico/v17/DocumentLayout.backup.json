@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\Prueba Tecnica\\Backend\\API\\ProyectoCrudBasico\\",
+  "WorkspaceRootPath": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\PruebaTecnica\\API\\ProyectoCrudBasico\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14EE696D-4174-42A5-B1C0-B2AC2FE9AF16}|ProyectoCrudBasico\\ProyectoCrudBasico.csproj|c:\\users\\danie\\desktop\\programacion\\prueba tecnica\\backend\\api\\proyectocrudbasico\\proyectocrudbasico\\controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14EE696D-4174-42A5-B1C0-B2AC2FE9AF16}|ProyectoCrudBasico\\ProyectoCrudBasico.csproj|solutionrelative:proyectocrudbasico\\controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14EE696D-4174-42A5-B1C0-B2AC2FE9AF16}|ProyectoCrudBasico\\ProyectoCrudBasico.csproj|c:\\users\\danie\\desktop\\programacion\\prueba tecnica\\backend\\api\\proyectocrudbasico\\proyectocrudbasico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14EE696D-4174-42A5-B1C0-B2AC2FE9AF16}|ProyectoCrudBasico\\ProyectoCrudBasico.csproj|c:\\users\\danie\\desktop\\programacion\\pruebatecnica\\api\\proyectocrudbasico\\proyectocrudbasico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14EE696D-4174-42A5-B1C0-B2AC2FE9AF16}|ProyectoCrudBasico\\ProyectoCrudBasico.csproj|solutionrelative:proyectocrudbasico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14EE696D-4174-42A5-B1C0-B2AC2FE9AF16}|ProyectoCrudBasico\\ProyectoCrudBasico.csproj|c:\\users\\danie\\desktop\\programacion\\prueba tecnica\\backend\\api\\proyectocrudbasico\\proyectocrudbasico\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14EE696D-4174-42A5-B1C0-B2AC2FE9AF16}|ProyectoCrudBasico\\ProyectoCrudBasico.csproj|c:\\users\\danie\\desktop\\programacion\\pruebatecnica\\api\\proyectocrudbasico\\proyectocrudbasico\\controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14EE696D-4174-42A5-B1C0-B2AC2FE9AF16}|ProyectoCrudBasico\\ProyectoCrudBasico.csproj|solutionrelative:proyectocrudbasico\\controllers\\proyectoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14EE696D-4174-42A5-B1C0-B2AC2FE9AF16}|ProyectoCrudBasico\\ProyectoCrudBasico.csproj|c:\\users\\danie\\desktop\\programacion\\pruebatecnica\\api\\proyectocrudbasico\\proyectocrudbasico\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14EE696D-4174-42A5-B1C0-B2AC2FE9AF16}|ProyectoCrudBasico\\ProyectoCrudBasico.csproj|solutionrelative:proyectocrudbasico\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14EE696D-4174-42A5-B1C0-B2AC2FE9AF16}|ProyectoCrudBasico\\ProyectoCrudBasico.csproj|c:\\users\\danie\\desktop\\programacion\\prueba tecnica\\backend\\api\\proyectocrudbasico\\proyectocrudbasico\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14EE696D-4174-42A5-B1C0-B2AC2FE9AF16}|ProyectoCrudBasico\\ProyectoCrudBasico.csproj|c:\\users\\danie\\desktop\\programacion\\pruebatecnica\\api\\proyectocrudbasico\\proyectocrudbasico\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14EE696D-4174-42A5-B1C0-B2AC2FE9AF16}|ProyectoCrudBasico\\ProyectoCrudBasico.csproj|solutionrelative:proyectocrudbasico\\models\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,26 +58,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProyectosController.cs",
-              "DocumentMoniker": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\Prueba Tecnica\\Backend\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Controllers\\ProyectosController.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\PruebaTecnica\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Controllers\\ProyectosController.cs",
               "RelativeDocumentMoniker": "ProyectoCrudBasico\\Controllers\\ProyectosController.cs",
-              "ToolTip": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\Prueba Tecnica\\Backend\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Controllers\\ProyectosController.cs",
+              "ToolTip": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\PruebaTecnica\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Controllers\\ProyectosController.cs",
               "RelativeToolTip": "ProyectoCrudBasico\\Controllers\\ProyectosController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA+wBMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T03:32:46.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\Prueba Tecnica\\Backend\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\PruebaTecnica\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Program.cs",
               "RelativeDocumentMoniker": "ProyectoCrudBasico\\Program.cs",
-              "ToolTip": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\Prueba Tecnica\\Backend\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Program.cs",
+              "ToolTip": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\PruebaTecnica\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Program.cs",
               "RelativeToolTip": "ProyectoCrudBasico\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T03:33:13.141Z",
               "EditorCaption": ""
@@ -86,27 +86,25 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\Prueba Tecnica\\Backend\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Data\\DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\PruebaTecnica\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "ProyectoCrudBasico\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\Prueba Tecnica\\Backend\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\PruebaTecnica\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Data\\DataContext.cs",
               "RelativeToolTip": "ProyectoCrudBasico\\Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T03:31:33.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T03:31:33.002Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Proyecto.cs",
-              "DocumentMoniker": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\Prueba Tecnica\\Backend\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Models\\Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\PruebaTecnica\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Models\\Proyecto.cs",
               "RelativeDocumentMoniker": "ProyectoCrudBasico\\Models\\Proyecto.cs",
-              "ToolTip": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\Prueba Tecnica\\Backend\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Models\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\PruebaTecnica\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\Models\\Proyecto.cs",
               "RelativeToolTip": "ProyectoCrudBasico\\Models\\Proyecto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T03:30:38.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-07T03:30:38.847Z"
             }
           ]
         }

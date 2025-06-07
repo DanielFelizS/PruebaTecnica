@@ -1058,11 +1058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\Prueba Tecnica\\Backend\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\ProyectoCrudBasico.csproj",
+      "projectUniqueName": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\PruebaTecnica\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\ProyectoCrudBasico.csproj",
       "projectName": "ProyectoCrudBasico",
-      "projectPath": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\Prueba Tecnica\\Backend\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\ProyectoCrudBasico.csproj",
+      "projectPath": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\PruebaTecnica\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\ProyectoCrudBasico.csproj",
       "packagesPath": "C:\\Users\\Danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\Prueba Tecnica\\Backend\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\obj\\",
+      "outputPath": "C:\\Users\\Danie\\Desktop\\PROGRAMACION\\PruebaTecnica\\API\\ProyectoCrudBasico\\ProyectoCrudBasico\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
