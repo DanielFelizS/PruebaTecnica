@@ -1,0 +1,29 @@
+<h1>Transneg</h1>
+
+<!-- Formulario para agregar un nuevo elemento -->
+<div>
+    <input [(ngModel)] = "newItemName" placeholder="Nombre del proyecto">
+    <input [(ngModel)] = "newItemDescription" placeholder="Descripción del proyecto">
+    <button (click)="addItem()">Crear Proyecto</button>
+</div>
+
+<!-- Lista de elementos -->
+<div *ngFor="let item of items">
+    <div>
+        <div *ngIf="editItemId !== (item.id || '')">
+            <div>{{item.nombre}}</div>
+            <div>{{item.descripcion}}</div>
+            <button (click)="editItem(item)">Editar</button>
+            <button (click)="deleteItem(item.id)">Eliminar</button>
+        </div>
+    </div>
+
+<!-- Formularios de edición -->
+    <div *ngIf="editItemId === (item.id || '')">
+        <input [(ngModel)] = "editItemName" placeholder="nombre"/>
+        <input [(ngModel)] = "editItemDescription" placeholder="descripcion"/>
+        <button (click)="updateItem()">Guardar</button>
+        <button (click)="cancelEdit()">Cancelar</button>
+
+    </div>
+</div>
